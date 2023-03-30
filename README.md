@@ -13,3 +13,5 @@ Covers:
 - **[03-Using BlackIDE for Deploying NFTs](https://github.com/bnb-chain/bnb-chain-tutorial/tree/main/03-Using-BlackIDE-for-Deploying-NFTs):** Tutorial on how to use BlackIDE to deploy NFTs on the BSC testnet and view them in the MetaMask wallet.
 - **[04-Deploying Smart Contracts Using IDEs](https://github.com/bnb-chain/bnb-chain-tutorial/tree/main/04-Deploying-Smart-Contracts-Using-IDEs):** Tutorials on how to deploy smart contracts using different IDEs, such as, Chainlink, Hardhat, Truffle, and Remix.
 
+### Ticket 
+https://github.com/jaehyun1209/bnb-chain/blob/main/Ticket.png
