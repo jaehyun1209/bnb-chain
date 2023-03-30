@@ -14,5 +14,5 @@ Covers:
 - **[04-Deploying Smart Contracts Using IDEs](https://github.com/bnb-chain/bnb-chain-tutorial/tree/main/04-Deploying-Smart-Contracts-Using-IDEs):** Tutorials on how to deploy smart contracts using different IDEs, such as, Chainlink, Hardhat, Truffle, and Remix.
 
 ### Ticket 
-<img src="https://github.com/jaehyun1209/bnb-chain/blob/main/Ticket.png"  width="700" height="370">
+<img src="https://github.com/jaehyun1209/bnb-chain/blob/main/Ticket.png"  width="700" height="700">
 
